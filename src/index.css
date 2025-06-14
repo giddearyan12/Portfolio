@@ -1,0 +1,9 @@
+@import url('https://fonts.googleapis.com/css2?family=Preahvihear&display=swap');
+@font-face {
+    font-family: Preahvihear;
+    src: url(./assets/fonts/Preahvihear-Regular.ttf);
+}
+@import "tailwindcss";
+@theme{
+    --font-preahvihear: Preahvihear, "sans-serf";
+}
