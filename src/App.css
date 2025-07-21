@@ -1,2 +1,14 @@
 @import url('https://fonts.googleapis.com/css2?family=Edu+QLD+Hand:wght@400..700&display=swap');
 @import "tailwindcss";
+
+.box {
+    opacity: 1;
+    transform: none;
+    background: oklch(0.21 0.034 264.665) 0% 0% / auto repeat scroll padding-box border-box,
+}
+
+.box:hover {
+    opacity: 1;
+    transform: scale(1.03);
+    background: linear-gradient(45deg, rgb(0,0,0), rgb(44, 44, 84), rgb(94,91,140), rgb(143, 101, 147), rgb(0,0,0));
+}
