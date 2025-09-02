@@ -86,12 +86,23 @@ function App() {
             <div class="flex flex-wrap gap-2"><span class="bg-gray-800 px-2 py-1 rounded text-xs sm:text-sm">MERN Stack</span></div>
           </div>
           <div className='border border-gray-800 p-4 sm:p-6 rounded-lg bg-gray-900 box'>
-            <div class="flex items-center gap-2 mb-3 flex-wrap">
-              <h3 class="text-lg sm:text-xl font-semibold">AI Whatsapp Bot</h3><div><a class="" href="https://github.com/giddearyan12/AI_Whatsapp"><span class="text-xs bg-green-700 px-2 py-1 rounded-lg  ">Code</span></a></div></div>
-            <p class="mb-4 text-sm sm:text-base text-gray-300">A Gemini AI-powered WhatsApp bot that delivers AI-generated responses in personal or group chats after simple mobile authentication.</p>
-            <div class="flex flex-wrap gap-2"><span class="bg-gray-800 px-2 py-1 rounded text-xs sm:text-sm">Node.js</span><span class="bg-gray-800 px-2 py-1 rounded text-xs sm:text-sm">Gemini API KEY</span><span class="bg-gray-800 px-2 py-1 rounded text-xs sm:text-sm">Whatsapp-web.js</span></div>
-          </div>
-        </div>
+          <div className="flex items-center gap-2 mb-3 flex-wrap">
+    <h3 className="text-lg sm:text-xl font-semibold">Clone Craft AI</h3>
+    <div>
+      <a href="https://github.com/giddearyan12/CloneCraft-AI">
+        <span className="text-xs bg-green-700 px-2 py-1 rounded-lg">Code</span>
+      </a>
+    </div>
+  </div>
+  <p className="mb-4 text-sm sm:text-base text-gray-300">
+    An AI-powered agent that clones websites efficiently by replicating their structure, styles, and content, making web duplication fast and automated.
+  </p>
+  <div className="flex flex-wrap gap-2">
+    <span className="bg-gray-800 px-2 py-1 rounded text-xs sm:text-sm">Node.js</span>
+    <span className="bg-gray-800 px-2 py-1 rounded text-xs sm:text-sm">AI Agent</span>
+  </div>
+</div>
+
       </section>
 
       <section className='mb-12'>
