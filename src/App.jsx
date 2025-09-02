@@ -44,7 +44,7 @@ function App() {
                   Developed dynamic web application using React.js.
                 </li>
                 <li>
-                  Developed a task split feature using React.js, enhancing user experience..
+                  Developed a task split web app using React.js, enhancing user experience.
                 </li>
 
               </ul>
