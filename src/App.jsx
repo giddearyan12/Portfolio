@@ -102,7 +102,7 @@ function App() {
     <span className="bg-gray-800 px-2 py-1 rounded text-xs sm:text-sm">AI Agent</span>
   </div>
 </div>
-
+</div>
       </section>
 
       <section className='mb-12'>
