@@ -1,5 +1,5 @@
 import './App.css';
-import aryan from './assets/aryan.jpg';
+import aryan from './assets/aryan.png';
 
 function App() {
   return (
