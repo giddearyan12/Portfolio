@@ -38,13 +38,13 @@ function App() {
               <h3 className="text-lg sm:text-xl font-semibold">
                 Junior Blockchain Developer Intern · Blocsys Technologies
               </h3>
-              <p className="text-gray-400">Sept 2024 – Present | OnSite</p>
+              <p className="text-gray-400">Sept 2025 – Present | OnSite</p>
               <ul className="mt-2 text-sm sm:text-base text-gray-300 list-disc pl-5 space-y-1">
                 <li>
                   Worked on building the admin panel with reactjs.
                 </li>
                 <li>
-                  Worked with the Nest.js for Backend functionality
+                  Worked with the Nest.js for Backend functionality.
                 </li>
 
               </ul>
