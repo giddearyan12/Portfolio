@@ -36,9 +36,9 @@ function App() {
           <div className="flex flex-col md:flex-row justify-between items-start gap-4">
             <div className="flex-1">
               <h3 className="text-lg sm:text-xl font-semibold">
-                Junior Blockchain Developer Intern · BlocsysTechnologies
+                Junior Blockchain Developer Intern · Blocsys Technologies
               </h3>
-              <p className="text-gray-400">Sept 2024 – Present | OnSte</p>
+              <p className="text-gray-400">Sept 2024 – Present | OnSite</p>
               <ul className="mt-2 text-sm sm:text-base text-gray-300 list-disc pl-5 space-y-1">
                 <li>
                   Worked on building the admin panel with reactjs.
