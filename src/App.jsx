@@ -36,15 +36,15 @@ function App() {
           <div className="flex flex-col md:flex-row justify-between items-start gap-4">
             <div className="flex-1">
               <h3 className="text-lg sm:text-xl font-semibold">
-                React Developer Intern · Softron
+                Junior Blockchain Developer Intern · BlocsysTechnologies
               </h3>
-              <p className="text-gray-400">Jun 2024 – Jul 2024 | Remote</p>
+              <p className="text-gray-400">Sept 2024 – Present | OnSte</p>
               <ul className="mt-2 text-sm sm:text-base text-gray-300 list-disc pl-5 space-y-1">
                 <li>
-                  Developed dynamic web application using React.js.
+                  Worked on building the admin panel with reactjs.
                 </li>
                 <li>
-                  Developed a task split web app using React.js, enhancing user experience.
+                  Worked with the Nest.js for Backend functionality
                 </li>
 
               </ul>
@@ -52,6 +52,9 @@ function App() {
             <div className="flex flex-wrap gap-2">
               <span className="bg-gray-800 px-2 py-1 rounded text-xs sm:text-sm flex items-center gap-1">
                 React.js
+              </span>
+              <span className="bg-gray-800 px-2 py-1 rounded text-xs sm:text-sm flex items-center gap-1">
+                Nestjs
               </span>
             </div>
           </div>
